@@ -1,10 +1,10 @@
 {
-  "name": "@jakobgoerke/bshc-types",
+  "name": "@krngl/bshc-types",
   "version": "0.0.3",
   "main": "build",
   "types": "build/index.d.ts",
-  "repository": "git@github.com:jakobgoerke/bshc-types.git",
-  "author": "revdev <mail@revdev.me>",
+  "repository": "git@github.com:krngl/bshc-types.git",
+  "author": "krngl <mail@krngl.dev>",
   "license": "GPL-3.0",
   "devDependencies": {
     "@biomejs/biome": "2.3.11",
